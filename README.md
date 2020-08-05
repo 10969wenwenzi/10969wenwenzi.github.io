@@ -1,2 +1,2 @@
 # 10969wenwenzi.github.io
-ShuaiBai_Blog
+ShuaiBai_blog
